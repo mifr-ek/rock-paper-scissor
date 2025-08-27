@@ -130,13 +130,13 @@ h1 {
 }
 
 button.rock {
-  background-image: url(button_rock.png);
+  background-image: url("img/button_rock.png");
 }
 
 button.paper {
-  background-image: url(button_paper.png);
+  background-image: url("img/button_paper.png");
 }
 
 button.scissors {
-  background-image: url(button_scissors.png);
+  background-image: url("img/button_scissors.png");
 }
